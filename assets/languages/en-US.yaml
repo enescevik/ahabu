@@ -1,0 +1,33 @@
+title: AhaBU
+version: "Version: {}"
+
+general:
+  firebase_init_error: Firebase services are could not established!
+  settings: Settings
+  score: 'Score : '
+  total: 'Total: '
+
+words:
+  title: Letter Puzzle
+  list: A|a|animal,B|b|baloon,C|c|cinema,D|d|dinosaur,E|e|elephant,F|f|fish,G|g|goat,H|h|house,I|i|iguana,J|j|jaguar,K|k|kangaroo,L|l|lion,M|m|monkey,N|n|notebook,O|o|orange,P|p|pencil,Q|q|quit,R|r|rabbit,S|s|sheep,T|t|tiger,U|u|unicorn,V|v|vulture,W|w|window,X|x|xylophone,Y|y|yak,Z|z|zebra
+  speach: '{} start with {}'
+
+numbers:
+  title: Number Puzzle
+  list: 0123456789
+
+toys:
+  title: Picture Puzzle
+
+settings:
+  title: Settings
+  common:
+    title: Common
+    language: Language
+    showScore: Show Score
+  display:
+    title: Display
+    theme_mode: Theme Mode
+    system: System
+    light: Light
+    dark: Dark

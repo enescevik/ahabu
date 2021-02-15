@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709677164319",
+    "project_id": "ahabu-2f6f9",
+    "storage_bucket": "ahabu-2f6f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709677164319:android:af095c012760524dcab22a",
+        "android_client_info": {
+          "package_name": "com.ened.ahabu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709677164319-bcjcf8fc3rqo6moecuk0qtffff8odevc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc0g-PLOShxI0WbyhgWCFf7qCEmeJGeZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709677164319-bcjcf8fc3rqo6moecuk0qtffff8odevc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

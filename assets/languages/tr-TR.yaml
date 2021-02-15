@@ -1,0 +1,34 @@
+title: AhaBU
+version: "Versiyon: {}"
+
+general:
+  firebase_init_error: Firebase servislerine erişilemiyor!
+  settings: Ayarlar
+  score: 'Skor : '
+  total: 'Toplam: '
+
+
+words:
+  title: Harf Bulmaca
+  list: A|a|ayı,B|be|balık,C|ce|civciv,Ç|çe|çiçek,D|de|dolap,E|e|elma,F|fe|fare,G|ge|gök kuşağı,Ğ|ğ|,H|he|horoz,I|ı|ırmak,İ|i|inek,J|je|jaguar,K|ke|kitap,L|le|limon,M|me|maymun,N|ne|nar,O|o|orman,Ö|ö|ördek,P|pe|penguen,R|re|roket,S|se|sincap,Ş|şe|şeker,T|te|tavuk,U|u|uğur böceği,Ü|ü|üzüm,V|ve|vapur,Y|ye|yılan,Z|ze|zebra
+  speach: '{} {} ile başlar'
+
+numbers:
+  title: Sayı Bulmaca
+  list: 0123456789
+
+toys:
+  title: Resim Bulmaca
+
+settings:
+  title: Ayarlar
+  common:
+    title: Genel
+    language: Dil
+    showScore: Skoru Göster
+  display:
+    title: Görünüm
+    theme_mode: Tema Modu
+    system: Sistem Varsayılanı
+    light: Aydınlık Mod
+    dark: Karanlık Mod

@@ -1,4 +1,4 @@
-package com.ened.ahabu.ahabu
+package com.ened.ahabu
 
 import io.flutter.embedding.android.FlutterActivity
 
